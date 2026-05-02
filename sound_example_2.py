@@ -2,7 +2,7 @@
 ## The test to generate sound with NumPy math functions 
 ## and wrapped with some custom functions
 ## to generate short tracks.
-## Oleg Z. 20026
+## Oleg Z. 2026
 ## Requires:
 ##     NumPy - comes with default Python istallation
 ##     sounddevice - Python interface to the sound card
